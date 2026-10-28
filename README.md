@@ -1,6 +1,10 @@
 # WAYNE BRIGITTE | Toyota Talisay, Cebu
 ### Marketing Professional Contact & Customer Resource Website
 
+> **Status:** Live & Mobile-Optimized (Updated: October 2026)  
+> **Dealership:** Toyota Talisay, Cebu, Philippines  
+> **Contact:** 0977 677 0382 | [Facebook Profile](https://www.facebook.com/wayne.espano)
+
 A modern, fast-loading, mobile-friendly contact website for **WAYNE BRIGITTE**, Marketing Professional at **Toyota Talisay, Cebu**.
 
 ---
