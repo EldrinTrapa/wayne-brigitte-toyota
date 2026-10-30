@@ -271,7 +271,7 @@ function initVCardDownload() {
         dealership: "Toyota Talisay, Cebu",
         contact: {
           phoneRaw: "+639776770382",
-          email: "waynebrigitte.toyota@gmail.com"
+          email: "espanowayne@gmail.com"
         },
         location: {
           addressLine1: "Cebu South Road, Lawaan 1",

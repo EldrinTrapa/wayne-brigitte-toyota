@@ -20,8 +20,8 @@ const SITE_CONFIG = {
     phoneRaw: "+639776770382",                // Format used for tel: links
     
     // Facebook Messenger
-    messengerUsername: "wayne.espano",
-    messengerUrl: "https://m.me/wayne.espano",
+    messengerUsername: "profile.php?id=61572215742710",
+    messengerUrl: "https://m.me/61572215742710",
     
     // Viber
     viberNumber: "+63 977 677 0382",
@@ -35,11 +35,11 @@ const SITE_CONFIG = {
     },
     
     // Official Facebook Page / Profile
-    facebookUrl: "https://www.facebook.com/wayne.espano",
-    facebookDisplay: "facebook.com/wayne.espano",
+    facebookUrl: "https://www.facebook.com/profile.php?id=61572215742710",
+    facebookDisplay: "facebook.com/profile.php?id=61572215742710",
     
     // Business Email
-    email: "waynebrigitte.toyota@gmail.com",
+    email: "espanowayne@gmail.com",
     
     // Other Social Media (Set enabled: true and fill URL when available)
     instagram: {
