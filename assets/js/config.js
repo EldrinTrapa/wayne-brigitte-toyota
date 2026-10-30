@@ -27,13 +27,6 @@ const SITE_CONFIG = {
     viberNumber: "+63 977 677 0382",
     viberUrl: "viber://chat?number=%2B639776770382",
     
-    // WhatsApp
-    whatsapp: {
-      enabled: true,
-      number: "+63 977 677 0382",
-      url: "https://wa.me/639776770382?text=Hello%20Wayne,%20I%20am%20inquiring%20about%20a%20Toyota%20vehicle."
-    },
-    
     // Official Facebook Page / Profile
     facebookUrl: "https://www.facebook.com/profile.php?id=61572215742710",
     facebookDisplay: "facebook.com/profile.php?id=61572215742710",

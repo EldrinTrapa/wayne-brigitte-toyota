@@ -47,20 +47,6 @@ function initFromConfig() {
     el.textContent = cfg.contact.viberNumber;
   });
 
-  // WhatsApp
-  const whatsappSection = document.getElementById('whatsapp-card');
-  if (whatsappSection) {
-    if (cfg.contact.whatsapp && cfg.contact.whatsapp.enabled) {
-      whatsappSection.style.display = 'flex';
-      const waLink = whatsappSection.querySelector('.action-whatsapp');
-      if (waLink) waLink.href = cfg.contact.whatsapp.url;
-      const waText = whatsappSection.querySelector('.config-whatsapp-text');
-      if (waText) waText.textContent = cfg.contact.whatsapp.number;
-    } else {
-      whatsappSection.style.display = 'none';
-    }
-  }
-
   // Facebook
   const fbLinks = document.querySelectorAll('.action-facebook');
   fbLinks.forEach(el => {
