@@ -79,12 +79,12 @@ const SITE_CONFIG = {
       id: "financing-requirements",
       title: "Toyota Auto Financing Requirements Checklist",
       category: "Financing Guide",
-      description: "Complete list of auto loan requirements for Locally Employed, OFW / Seafarers, and Business Owners.",
+      description: "Requirements checklist for Toyota In-House Financing (2 Valid IDs, COE, Proof of Billing), Employed, OFW, and Business Owners.",
       filename: "Toyota-Auto-Financing-Requirements-Guide.pdf",
       path: "assets/docs/Toyota-Auto-Financing-Requirements-Guide.pdf",
       fileType: "PDF",
-      fileSize: "3.2 KB",
-      badge: "Essential"
+      fileSize: "3.5 KB",
+      badge: "In-House & Bank"
     },
     {
       id: "lineup-guide",
