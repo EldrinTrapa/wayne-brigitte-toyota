@@ -88,14 +88,14 @@ const SITE_CONFIG = {
     },
     {
       id: "lineup-guide",
-      title: "Toyota Vehicle Lineup & Model Overview",
-      category: "Vehicle Guide",
-      description: "Overview of popular Toyota models in Cebu: Vios, Raize, Yaris Cross, Avanza, Veloz, Innova, Fortuner & Hilux.",
-      filename: "Toyota-Vehicle-Lineup-Guide-Cebu.pdf",
-      path: "assets/docs/Toyota-Vehicle-Lineup-Guide-Cebu.pdf",
+      title: "Toyota 2026 All-In Promo & Vehicle Price List",
+      category: "Vehicle Lineup & Pricing",
+      description: "Official 2026 price list and downpayment promo sheet for Rush, Vios, Wigo, Raize, Yaris Cross, Innova, Fortuner, Hilux, and more.",
+      filename: "Toyota-Vehicle-Lineup-Price-List-Cebu.pdf",
+      path: "assets/docs/Toyota-Vehicle-Lineup-Price-List-Cebu.pdf",
       fileType: "PDF",
-      fileSize: "3.2 KB",
-      badge: "Popular"
+      fileSize: "6.4 MB",
+      badge: "Official Promo"
     },
     {
       id: "inquiry-guide",
