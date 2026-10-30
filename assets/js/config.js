@@ -99,14 +99,14 @@ const SITE_CONFIG = {
     },
     {
       id: "inquiry-guide",
-      title: "Toyota Buyer's Step-by-Step Purchase Guide",
-      category: "Customer Guide",
-      description: "A simple 6-step walkthrough from vehicle inquiry and loan application to vehicle handover at Toyota Talisay.",
-      filename: "Toyota-Buyer-Inquiry-Guide-Wayne-Brigitte.pdf",
-      path: "assets/docs/Toyota-Buyer-Inquiry-Guide-Wayne-Brigitte.pdf",
+      title: "Toyota Vehicle Auto Loan Application Form",
+      category: "Application Form",
+      description: "Official printable application form for Principal Borrower and Co-Borrower credit evaluation at Toyota Talisay, Cebu.",
+      filename: "Toyota-Application-Form-Wayne-Brigitte.pdf",
+      path: "assets/docs/Toyota-Application-Form-Wayne-Brigitte.pdf",
       fileType: "PDF",
-      fileSize: "2.8 KB",
-      badge: "Helpful"
+      fileSize: "105 KB",
+      badge: "Application Form"
     }
   ],
 
